@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://insw533.github.io/226-6/sitemap.xml
